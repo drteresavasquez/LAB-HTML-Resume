@@ -12,7 +12,8 @@ You will be building an HTML version of your resume
 
 ### HTML
 - Each place you've worked must be contained in an article element.
-- Each article element should have a header that contains the name of the company and the dates of your employment. BONUS: Ensure that the dates are semantically marked by being contained within the appropriate HTML element.
+- Each article element should have a header that contains the name of the company and the dates of your employment. 
+    - BONUS: Ensure that the dates are semantically marked by being contained within the appropriate HTML element.
 - Each article should have its own id.
 - Each article should contain at least one section that describes your position there.
 
